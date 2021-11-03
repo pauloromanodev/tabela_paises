@@ -1,111 +1,111 @@
-insert into PAIS (descricao, nacionalidade) values ('Antígua e Barbuda','Antiguano')
-insert into PAIS (descricao, nacionalidade) values ('Argentina','Argentino')
-insert into PAIS (descricao, nacionalidade) values ('Bahamas','Bahamense')
-insert into PAIS (descricao, nacionalidade) values ('Barbados','Barbadiano, barbadense')
-insert into PAIS (descricao, nacionalidade) values ('Belize','Belizenho')
-insert into PAIS (descricao, nacionalidade) values ('Bolívia','Boliviano')
-insert into PAIS (descricao, nacionalidade) values ('Brasil','Brasileiro')
-insert into PAIS (descricao, nacionalidade) values ('Chile','Chileno')
-insert into PAIS (descricao, nacionalidade) values ('Colômbia','Colombiano')
-insert into PAIS (descricao, nacionalidade) values ('Costa Rica','Costarriquenho')
-insert into PAIS (descricao, nacionalidade) values ('Cuba','Cubano')
-insert into PAIS (descricao, nacionalidade) values ('Dominica','Dominicano')
-insert into PAIS (descricao, nacionalidade) values ('Equador','Equatoriano')
-insert into PAIS (descricao, nacionalidade) values ('El Salvador','Salvadorenho')
-insert into PAIS (descricao, nacionalidade) values ('Granada','Granadino')
-insert into PAIS (descricao, nacionalidade) values ('Guatemala','Guatemalteco')
-insert into PAIS (descricao, nacionalidade) values ('Guiana','Guianês')
-insert into PAIS (descricao, nacionalidade) values ('Guiana Francesa','Guianense')
-insert into PAIS (descricao, nacionalidade) values ('Haiti','Haitiano')
-insert into PAIS (descricao, nacionalidade) values ('Honduras','Hondurenho')
-insert into PAIS (descricao, nacionalidade) values ('Jamaica','Jamaicano')
-insert into PAIS (descricao, nacionalidade) values ('México','Mexicano')
-insert into PAIS (descricao, nacionalidade) values ('Nicarágua','Nicaraguense')
-insert into PAIS (descricao, nacionalidade) values ('Panamá','Panamenho')
-insert into PAIS (descricao, nacionalidade) values ('Paraguai','Paraguaio')
-insert into PAIS (descricao, nacionalidade) values ('Peru','Peruano')
-insert into PAIS (descricao, nacionalidade) values ('Porto Rico','Portorriquenho')
-insert into PAIS (descricao, nacionalidade) values ('República Dominicana','Dominicana')
-insert into PAIS (descricao, nacionalidade) values ('São Cristóvão e Nevis','São-cristovense')
-insert into PAIS (descricao, nacionalidade) values ('São Vicente e Granadinas','São-vicentino')
-insert into PAIS (descricao, nacionalidade) values ('Santa Lúcia','Santa-lucense')
-insert into PAIS (descricao, nacionalidade) values ('Suriname','Surinamês')
-insert into PAIS (descricao, nacionalidade) values ('Trinidad e Tobago','Trindadense')
-insert into PAIS (descricao, nacionalidade) values ('Uruguai','Uruguaio')
-insert into PAIS (descricao, nacionalidade) values ('Venezuela','Venezuelano')
-insert into PAIS (descricao, nacionalidade) values ('Alemanha','Alemão')
-insert into PAIS (descricao, nacionalidade) values ('Áustria','Austríaco')
-insert into PAIS (descricao, nacionalidade) values ('Bélgica','Belga')
-insert into PAIS (descricao, nacionalidade) values ('Croácia','Croata')
-insert into PAIS (descricao, nacionalidade) values ('Dinamarca','Dinamarquês')
-insert into PAIS (descricao, nacionalidade) values ('Eslováquia','Eslovaco')
-insert into PAIS (descricao, nacionalidade) values ('Eslovênia','Esloveno')
-insert into PAIS (descricao, nacionalidade) values ('Espanha','Espanhol')
-insert into PAIS (descricao, nacionalidade) values ('França','Francês')
-insert into PAIS (descricao, nacionalidade) values ('Grécia','Grego')
-insert into PAIS (descricao, nacionalidade) values ('Hungria','Húngaro')
-insert into PAIS (descricao, nacionalidade) values ('Irlanda','Irlandês')
-insert into PAIS (descricao, nacionalidade) values ('Itália','Italiano')
-insert into PAIS (descricao, nacionalidade) values ('Noruega','Noruego')
-insert into PAIS (descricao, nacionalidade) values ('Países Baixos','Holandês')
-insert into PAIS (descricao, nacionalidade) values ('Polônia','Polonês')
-insert into PAIS (descricao, nacionalidade) values ('Portugal','Português')
-insert into PAIS (descricao, nacionalidade) values ('Reino Unido','Britânico')
-insert into PAIS (descricao, nacionalidade) values ('Inglaterra','Inglês')
-insert into PAIS (descricao, nacionalidade) values ('País de Gales','Galês')
-insert into PAIS (descricao, nacionalidade) values ('Escócia','Escocês')
-insert into PAIS (descricao, nacionalidade) values ('Romênia','Romeno')
-insert into PAIS (descricao, nacionalidade) values ('Rússia','Russo')
-insert into PAIS (descricao, nacionalidade) values ('Sérvio','Sérvio')
-insert into PAIS (descricao, nacionalidade) values ('Suécia','Sueco')
-insert into PAIS (descricao, nacionalidade) values ('Suíça','Suíço')
-insert into PAIS (descricao, nacionalidade) values ('Turquia','Turco')
-insert into PAIS (descricao, nacionalidade) values ('Ucrânia','Ucraniano')
-insert into PAIS (descricao, nacionalidade) values ('Estados Unidos','Americano')
-insert into PAIS (descricao, nacionalidade) values ('Canadá','Canadense')
-insert into PAIS (descricao, nacionalidade) values ('Angola','Angolano')
-insert into PAIS (descricao, nacionalidade) values ('Moçambique','Moçambicano')
-insert into PAIS (descricao, nacionalidade) values ('África do Sul','Sul-africano')
-insert into PAIS (descricao, nacionalidade) values ('Zimbabue','Zimbabuense')
-insert into PAIS (descricao, nacionalidade) values ('Argélia','Argélia')
-insert into PAIS (descricao, nacionalidade) values ('Comores','Comorense')
-insert into PAIS (descricao, nacionalidade) values ('Egito','Egípcio')
-insert into PAIS (descricao, nacionalidade) values ('Líbia','Líbio')
-insert into PAIS (descricao, nacionalidade) values ('Marrocos','Marroquino')
-insert into PAIS (descricao, nacionalidade) values ('Gana','Ganés')
-insert into PAIS (descricao, nacionalidade) values ('Quênia','Queniano')
-insert into PAIS (descricao, nacionalidade) values ('Ruanda','Ruandês')
-insert into PAIS (descricao, nacionalidade) values ('Uganda','Ugandense')
-insert into PAIS (descricao, nacionalidade) values ('Botsuana','Bechuano')
-insert into PAIS (descricao, nacionalidade) values ('Costa do Marfim','Marfinense')
-insert into PAIS (descricao, nacionalidade) values ('Camarões','Camaronense')
-insert into PAIS (descricao, nacionalidade) values ('Nigéria','Nigeriano')
-insert into PAIS (descricao, nacionalidade) values ('Somália','Somali')
-insert into PAIS (descricao, nacionalidade) values ('Austrália','Australiano')
-insert into PAIS (descricao, nacionalidade) values ('Nova Zelândia','Neozelandês')
-insert into PAIS (descricao, nacionalidade) values ('Afeganistão','Afegão')
-insert into PAIS (descricao, nacionalidade) values ('Arábia Saudita','Saudita')
-insert into PAIS (descricao, nacionalidade) values ('Armênia','Armeno')
-insert into PAIS (descricao, nacionalidade) values ('Armeno','Bangladesh')
-insert into PAIS (descricao, nacionalidade) values ('China','Chinês')
-insert into PAIS (descricao, nacionalidade) values ('Coréia do Norte','Norte-coreano, coreano')
-insert into PAIS (descricao, nacionalidade) values ('Coréia do Sul','Sul-coreano, coreano')
-insert into PAIS (descricao, nacionalidade) values ('Índia','Indiano')
-insert into PAIS (descricao, nacionalidade) values ('Indonésia','Indonésio')
-insert into PAIS (descricao, nacionalidade) values ('Iraque','Iraquiano')
-insert into PAIS (descricao, nacionalidade) values ('Irã','Iraniano')
-insert into PAIS (descricao, nacionalidade) values ('Israel','Israelita')
-insert into PAIS (descricao, nacionalidade) values ('Japão','Japonês')
-insert into PAIS (descricao, nacionalidade) values ('Malásia','Malaio')
-insert into PAIS (descricao, nacionalidade) values ('Nepal','Nepalês')
-insert into PAIS (descricao, nacionalidade) values ('Omã','Omanense')
-insert into PAIS (descricao, nacionalidade) values ('Paquistão','Paquistanês')
-insert into PAIS (descricao, nacionalidade) values ('Palestina','Palestino')
-insert into PAIS (descricao, nacionalidade) values ('Qatar','Qatarense')
-insert into PAIS (descricao, nacionalidade) values ('Síria','Sírio')
-insert into PAIS (descricao, nacionalidade) values ('Sri Lanka','Cingalês')
-insert into PAIS (descricao, nacionalidade) values ('Tailândia','Tailandês')
-insert into PAIS (descricao, nacionalidade) values ('Timor-Leste','Timorense, maubere')
-insert into PAIS (descricao, nacionalidade) values ('Emirados Árabes Unidos','Árabe, emiratense')
-insert into PAIS (descricao, nacionalidade) values ('Vietnã','Vietnamita')
-insert into PAIS (descricao, nacionalidade) values ('Iêmen','Iemenita')
+insert into PAIS (descricao, nacionalidade) values ('Antígua e Barbuda','Antiguano');
+insert into PAIS (descricao, nacionalidade) values ('Argentina','Argentino');
+insert into PAIS (descricao, nacionalidade) values ('Bahamas','Bahamense');
+insert into PAIS (descricao, nacionalidade) values ('Barbados','Barbadiano, barbadense');
+insert into PAIS (descricao, nacionalidade) values ('Belize','Belizenho');
+insert into PAIS (descricao, nacionalidade) values ('Bolívia','Boliviano');
+insert into PAIS (descricao, nacionalidade) values ('Brasil','Brasileiro');
+insert into PAIS (descricao, nacionalidade) values ('Chile','Chileno');
+insert into PAIS (descricao, nacionalidade) values ('Colômbia','Colombiano');
+insert into PAIS (descricao, nacionalidade) values ('Costa Rica','Costarriquenho');
+insert into PAIS (descricao, nacionalidade) values ('Cuba','Cubano');
+insert into PAIS (descricao, nacionalidade) values ('Dominica','Dominicano');
+insert into PAIS (descricao, nacionalidade) values ('Equador','Equatoriano');
+insert into PAIS (descricao, nacionalidade) values ('El Salvador','Salvadorenho');
+insert into PAIS (descricao, nacionalidade) values ('Granada','Granadino');
+insert into PAIS (descricao, nacionalidade) values ('Guatemala','Guatemalteco');
+insert into PAIS (descricao, nacionalidade) values ('Guiana','Guianês');
+insert into PAIS (descricao, nacionalidade) values ('Guiana Francesa','Guianense');
+insert into PAIS (descricao, nacionalidade) values ('Haiti','Haitiano');
+insert into PAIS (descricao, nacionalidade) values ('Honduras','Hondurenho');
+insert into PAIS (descricao, nacionalidade) values ('Jamaica','Jamaicano');
+insert into PAIS (descricao, nacionalidade) values ('México','Mexicano');
+insert into PAIS (descricao, nacionalidade) values ('Nicarágua','Nicaraguense');
+insert into PAIS (descricao, nacionalidade) values ('Panamá','Panamenho');
+insert into PAIS (descricao, nacionalidade) values ('Paraguai','Paraguaio');
+insert into PAIS (descricao, nacionalidade) values ('Peru','Peruano');
+insert into PAIS (descricao, nacionalidade) values ('Porto Rico','Portorriquenho');
+insert into PAIS (descricao, nacionalidade) values ('República Dominicana','Dominicana');
+insert into PAIS (descricao, nacionalidade) values ('São Cristóvão e Nevis','São-cristovense');
+insert into PAIS (descricao, nacionalidade) values ('São Vicente e Granadinas','São-vicentino');
+insert into PAIS (descricao, nacionalidade) values ('Santa Lúcia','Santa-lucense');
+insert into PAIS (descricao, nacionalidade) values ('Suriname','Surinamês');
+insert into PAIS (descricao, nacionalidade) values ('Trinidad e Tobago','Trindadense');
+insert into PAIS (descricao, nacionalidade) values ('Uruguai','Uruguaio');
+insert into PAIS (descricao, nacionalidade) values ('Venezuela','Venezuelano');
+insert into PAIS (descricao, nacionalidade) values ('Alemanha','Alemão');
+insert into PAIS (descricao, nacionalidade) values ('Áustria','Austríaco');
+insert into PAIS (descricao, nacionalidade) values ('Bélgica','Belga');
+insert into PAIS (descricao, nacionalidade) values ('Croácia','Croata');
+insert into PAIS (descricao, nacionalidade) values ('Dinamarca','Dinamarquês');
+insert into PAIS (descricao, nacionalidade) values ('Eslováquia','Eslovaco');
+insert into PAIS (descricao, nacionalidade) values ('Eslovênia','Esloveno');
+insert into PAIS (descricao, nacionalidade) values ('Espanha','Espanhol');
+insert into PAIS (descricao, nacionalidade) values ('França','Francês');
+insert into PAIS (descricao, nacionalidade) values ('Grécia','Grego');
+insert into PAIS (descricao, nacionalidade) values ('Hungria','Húngaro');
+insert into PAIS (descricao, nacionalidade) values ('Irlanda','Irlandês');
+insert into PAIS (descricao, nacionalidade) values ('Itália','Italiano');
+insert into PAIS (descricao, nacionalidade) values ('Noruega','Noruego');
+insert into PAIS (descricao, nacionalidade) values ('Países Baixos','Holandês');
+insert into PAIS (descricao, nacionalidade) values ('Polônia','Polonês');
+insert into PAIS (descricao, nacionalidade) values ('Portugal','Português');
+insert into PAIS (descricao, nacionalidade) values ('Reino Unido','Britânico');
+insert into PAIS (descricao, nacionalidade) values ('Inglaterra','Inglês');
+insert into PAIS (descricao, nacionalidade) values ('País de Gales','Galês');
+insert into PAIS (descricao, nacionalidade) values ('Escócia','Escocês');
+insert into PAIS (descricao, nacionalidade) values ('Romênia','Romeno');
+insert into PAIS (descricao, nacionalidade) values ('Rússia','Russo');
+insert into PAIS (descricao, nacionalidade) values ('Sérvio','Sérvio');
+insert into PAIS (descricao, nacionalidade) values ('Suécia','Sueco');
+insert into PAIS (descricao, nacionalidade) values ('Suíça','Suíço');
+insert into PAIS (descricao, nacionalidade) values ('Turquia','Turco');
+insert into PAIS (descricao, nacionalidade) values ('Ucrânia','Ucraniano');
+insert into PAIS (descricao, nacionalidade) values ('Estados Unidos','Americano');
+insert into PAIS (descricao, nacionalidade) values ('Canadá','Canadense');
+insert into PAIS (descricao, nacionalidade) values ('Angola','Angolano');
+insert into PAIS (descricao, nacionalidade) values ('Moçambique','Moçambicano');
+insert into PAIS (descricao, nacionalidade) values ('África do Sul','Sul-africano');
+insert into PAIS (descricao, nacionalidade) values ('Zimbabue','Zimbabuense');
+insert into PAIS (descricao, nacionalidade) values ('Argélia','Argélia');
+insert into PAIS (descricao, nacionalidade) values ('Comores','Comorense');
+insert into PAIS (descricao, nacionalidade) values ('Egito','Egípcio');
+insert into PAIS (descricao, nacionalidade) values ('Líbia','Líbio');
+insert into PAIS (descricao, nacionalidade) values ('Marrocos','Marroquino');
+insert into PAIS (descricao, nacionalidade) values ('Gana','Ganés');
+insert into PAIS (descricao, nacionalidade) values ('Quênia','Queniano');
+insert into PAIS (descricao, nacionalidade) values ('Ruanda','Ruandês');
+insert into PAIS (descricao, nacionalidade) values ('Uganda','Ugandense');
+insert into PAIS (descricao, nacionalidade) values ('Botsuana','Bechuano');
+insert into PAIS (descricao, nacionalidade) values ('Costa do Marfim','Marfinense');
+insert into PAIS (descricao, nacionalidade) values ('Camarões','Camaronense');
+insert into PAIS (descricao, nacionalidade) values ('Nigéria','Nigeriano');
+insert into PAIS (descricao, nacionalidade) values ('Somália','Somali');
+insert into PAIS (descricao, nacionalidade) values ('Austrália','Australiano');
+insert into PAIS (descricao, nacionalidade) values ('Nova Zelândia','Neozelandês');
+insert into PAIS (descricao, nacionalidade) values ('Afeganistão','Afegão');
+insert into PAIS (descricao, nacionalidade) values ('Arábia Saudita','Saudita');
+insert into PAIS (descricao, nacionalidade) values ('Armênia','Armeno');
+insert into PAIS (descricao, nacionalidade) values ('Armeno','Bangladesh');
+insert into PAIS (descricao, nacionalidade) values ('China','Chinês');
+insert into PAIS (descricao, nacionalidade) values ('Coréia do Norte','Norte-coreano, coreano');
+insert into PAIS (descricao, nacionalidade) values ('Coréia do Sul','Sul-coreano, coreano');
+insert into PAIS (descricao, nacionalidade) values ('Índia','Indiano');
+insert into PAIS (descricao, nacionalidade) values ('Indonésia','Indonésio');
+insert into PAIS (descricao, nacionalidade) values ('Iraque','Iraquiano');
+insert into PAIS (descricao, nacionalidade) values ('Irã','Iraniano');
+insert into PAIS (descricao, nacionalidade) values ('Israel','Israelita');
+insert into PAIS (descricao, nacionalidade) values ('Japão','Japonês');
+insert into PAIS (descricao, nacionalidade) values ('Malásia','Malaio');
+insert into PAIS (descricao, nacionalidade) values ('Nepal','Nepalês');
+insert into PAIS (descricao, nacionalidade) values ('Omã','Omanense');
+insert into PAIS (descricao, nacionalidade) values ('Paquistão','Paquistanês');
+insert into PAIS (descricao, nacionalidade) values ('Palestina','Palestino');
+insert into PAIS (descricao, nacionalidade) values ('Qatar','Qatarense');
+insert into PAIS (descricao, nacionalidade) values ('Síria','Sírio');
+insert into PAIS (descricao, nacionalidade) values ('Sri Lanka','Cingalês');
+insert into PAIS (descricao, nacionalidade) values ('Tailândia','Tailandês');
+insert into PAIS (descricao, nacionalidade) values ('Timor-Leste','Timorense, maubere');
+insert into PAIS (descricao, nacionalidade) values ('Emirados Árabes Unidos','Árabe, emiratense');
+insert into PAIS (descricao, nacionalidade) values ('Vietnã','Vietnamita');
+insert into PAIS (descricao, nacionalidade) values ('Iêmen','Iemenita');
